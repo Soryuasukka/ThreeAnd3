@@ -4,4 +4,4 @@ This template should help get you started developing with Vue 3 and TypeScript i
 
 Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
 
-src: https://www.bilibili.com/video/BV14D4y1878G/?p=3&share_source=copy_web&vd_source=d21dab5795844588b8c5084046fa5000
+src: <a href="https://www.bilibili.com/video/BV14D4y1878G/?p=3&share_source=copy_web&vd_source=d21dab5795844588b8c5084046fa5000">src
